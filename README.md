@@ -13,6 +13,7 @@ You can download and run this code. It supports all Python supported text editor
 Clone the repo. and setup python environment
 ```
 git clone https://github.com/sanketmote/COVID19-Data-Analysis-and-Visualization
+
 ```
 To run code , you need Pandas, numpy and Seaborn libraries to setup environment.
 
@@ -23,12 +24,22 @@ you can use following commands to install Pandas, numpy and Seaborn libraries in
 2.pip install seaborn
 3.pip install numpy
 4.pip install matplotlib
+
 ```
 and run code.
 
+# Code
 
-
+You can use these code to analyse and visualize covid19 data for each country.
 
 Here is link for COVID19-Data-Analysis code (all code is in python)
 
 https://github.com/sanketmote/COVID19-Data-Analysis-and-Visualization/blob/master/covid19_analyisis.py
+
+# Contribute
+
+If you spot any inaccuracy please file an issue on github
+
+Contribution in  the form of a Pull Request are welcomed
+
+
